@@ -3,7 +3,7 @@
  Tecnólogo en Análisis y Desarrollo de Software (ADSO) - SENA  
 📍 Bogotá, Colombia  
 
-Aspirante a **Contrato de Aprendizaje** enfocado en el desarrollo de software, apasionado por la resolución de problemas, el desarrollo móvil y el aprendizaje continuo.
+Aspirante a Contrato de Aprendizaje enfocado en el desarrollo de software, apasionado por la resolución de problemas, el desarrollo móvil y el aprendizaje continuo.
 
 ---
 

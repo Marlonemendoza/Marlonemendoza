@@ -1,35 +1,48 @@
 # ¡Hola! Soy Marlon Enrique Mendoza Molina 👋
 
- Tecnólogo en Análisis y Desarrollo de Software (ADSO) - SENA  
+**Tecnólogo en Análisis y Desarrollo de Software (ADSO) - SENA**  
 📍 Bogotá, Colombia  
 
-Aspirante a Contrato de Aprendizaje enfocado en el desarrollo de software, apasionado por la resolución de problemas, el desarrollo móvil y el aprendizaje continuo.
+Aspirante a **Contrato de Aprendizaje** enfocado en el desarrollo de software, apasionado por la resolución de problemas, el desarrollo móvil nativo en Android y el aprendizaje continuo.
 
 ---
 
-### 🛠️ Tecnologías y Herramientas
+## 🛠️ Tecnologías y Herramientas
 
 - **Lenguajes:** Kotlin, Java, Python
-- **Desarrollo Móvil:** Android Studio, Android SDK, ADB, Scrcpy
-- **Entornos y Herramientas:** Linux (Mint / Kali), VS Code, IntelliJ IDEA, Git & GitHub
+- **Desarrollo Móvil:** Android Studio, Android SDK, Material Design, XML Layouts, ADB, Scrcpy
+- **Persistencia & Asincronía:** JSON (`kotlinx.serialization`), Corrutinas de Kotlin (`lifecycleScope`)
+- **Sistemas & Herramientas:** Linux (Mint / Kali Linux), Git, GitHub, VS Code, IntelliJ IDEA
 
 ---
 
-### 🚀 Proyectos Destacados
+## 🚀 Proyectos Destacados (Android & Apps Móviles)
 
-- **[Proyectos Android & Apps Móviles]**  
-  Desarrollo de aplicaciones nativas en Android Studio aplicando arquitectura limpia y buenas prácticas.
+### 🏋️ [App Móvil Android - Gestión de Gimnasio](https://github.com/Marlonemendoza/App-Movil-Android-Gimnasio)
+Aplicación móvil nativa para la administración y control de miembros de un gimnasio.
+- **Características:** Sistema CRUD completo, persistencia de datos local en JSON (`kotlinx.serialization`), validación dinámicas de inputs (edad e ID) y menú interactivo con animación *Circular Reveal* y transiciones personalizadas.
+- **Tecnologías:** Kotlin, Material Design, SplashScreen API, Custom Drawables.
 
-- **[Scripts y Automatización en Python]**  
-  Lógica de programación, procesamiento de archivos y utilidades de automatización.
+### 🎮 [Adivina El Número - Juego Interactivo](https://github.com/Marlonemendoza/Adivina-El-Numero)
+Juego móvil nativo con retroalimentación en tiempo real y UI dinámica.
+- **Características:** Generación dinámica de rangos, contador de intentos, alertas de validación, animación de fondo por degradados (`AnimationDrawable`) y efectos de victoria mediante corrutinas.
+- **Tecnologías:** Kotlin, Coroutines (`lifecycleScope`), ConstraintLayout, Vector Drawables.
 
 ---
 
-### 📬 Contacto
+## 📂 Otros Enfoques & Lógica de Programación
 
-- **Correo electrónico:** zmarlongamer@gmail.com
+- **[Scripts y Automatización en Python]:** Algoritmos de lógica de programación, procesamiento de archivos y utilidades de consola.
+- **[Estructuras de Datos & Algoritmos en Java]:** Ejercicios prácticos orientados a objetos y estructuras de datos.
+
+---
+
+## 📬 Contacto
+
+- **Correo electrónico:** [zmarlongamer@gmail.com](mailto:zmarlongamer@gmail.com)
+- **LinkedIn:** *(Agrega aquí tu enlace si tienes)*
 - **Ubicación:** Bogotá, Colombia
 
 ---
 
-> *Buscando activamente oportunidad de Contrato de Aprendizaje para aportar soluciones eficientes y continuar fortaleciendo mis habilidades profesionales.*
+> 💡 *Buscando activamente oportunidad de **Contrato de Aprendizaje** para aportar soluciones eficientes, desarrollar código limpio y continuar fortaleciendo mis habilidades profesionales.*

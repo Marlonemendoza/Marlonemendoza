@@ -3,7 +3,7 @@
 **Tecnólogo en Análisis y Desarrollo de Software (ADSO) - SENA**  
 📍 Bogotá, Colombia  
 
-Aspirante a **Contrato de Aprendizaje** enfocado en el desarrollo de software, apasionado por la resolución de problemas, el desarrollo móvil nativo en Android y el aprendizaje continuo.
+Aspirante a **Contrato de Aprendizaje** enfocado en el desarrollo de software, apasionado por la resolución de problemas, el desarrollo móvil nativo en Android, desarrollo backend con python y el aprendizaje continuo.
 
 ---
 
@@ -11,8 +11,8 @@ Aspirante a **Contrato de Aprendizaje** enfocado en el desarrollo de software, a
 
 - **Lenguajes:** Kotlin, Java, Python
 - **Desarrollo Móvil:** Android Studio, Android SDK, Material Design, XML Layouts, ADB, Scrcpy
-- **Persistencia & Asincronía:** JSON (`kotlinx.serialization`), Corrutinas de Kotlin (`lifecycleScope`)
-- **Sistemas & Herramientas:** Linux (Mint / Kali Linux), Git, GitHub, VS Code, IntelliJ IDEA
+- **Persistencia:** JSON (`kotlinx.serialization`)
+- **Sistemas & Herramientas:** Linux (Mint), Git, GitHub, VS Code, IntelliJ IDEA
 
 ---
 
@@ -40,9 +40,8 @@ Juego móvil nativo con retroalimentación en tiempo real y UI dinámica.
 ## 📬 Contacto
 
 - **Correo electrónico:** [zmarlongamer@gmail.com](mailto:zmarlongamer@gmail.com)
-- **LinkedIn:** *(Agrega aquí tu enlace si tienes)*
 - **Ubicación:** Bogotá, Colombia
 
 ---
 
-> 💡 *Buscando activamente oportunidad de **Contrato de Aprendizaje** para aportar soluciones eficientes, desarrollar código limpio y continuar fortaleciendo mis habilidades profesionales.*
+

@@ -18,6 +18,11 @@ Aspirante a **Contrato de Aprendizaje** enfocado en el desarrollo de software, a
 
 ## 🚀 Proyectos Destacados (Android & Apps Móviles)
 
+### 🔒 [Bloqueador de Toques - Pantalla Invisible](https://github.com/Marlonemendoza/Bloqueador-De-Toques)
+Aplicación móvil nativa para evitar toques accidentales en pantalla mediante un servicio en segundo plano y una capa de superposición transparente[cite: 1, 2].
+- **Características:** Capa de bloqueo invisible con `WindowManager`[cite: 1, 2], ocultación de barras de navegación y estado en modo inmersivo[cite: 1, 2], servicio de primer plano (`Foreground Service`) controlado directamente desde la barra de notificaciones[cite: 1, 2] y verificación persistente de permisos[cite: 2, 3].
+- **Tecnologías:** Kotlin, Service API (`Foreground Service`)[cite: 1, 2], `WindowManager` Overlay[cite: 1, 2], NotificationCompat API[cite: 1, 3], Material Switches[cite: 3, 4].
+
 ### 🏋️ [App Móvil Android - Gestión de Gimnasio](https://github.com/Marlonemendoza/App-Movil-Android-Gimnasio)
 Aplicación móvil nativa para la administración y control de miembros de un gimnasio.
 - **Características:** Sistema CRUD completo, persistencia de datos local en JSON (`kotlinx.serialization`), validación dinámicas de inputs (edad e ID) y menú interactivo con animación *Circular Reveal* y transiciones personalizadas.
